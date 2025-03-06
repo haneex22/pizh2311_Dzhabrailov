@@ -248,4 +248,4 @@ if __name__ == "__main__":
 MMXVI = 2016<br>
 
 **UML Диаграмма классов:**  
-![UML-diagram](UML_Диаграмма.jpg)
+![UML-diagram](uml.png)
