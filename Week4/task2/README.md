@@ -229,6 +229,6 @@ s2 == s3? True <br>
 
 
 **UML Диаграмма классов:**  
-![UML-diagram](UML.png)
+![UML-diagram](UML.jpg)
 
 
