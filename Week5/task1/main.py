@@ -3,9 +3,6 @@ from StackCollection import StackCollection
 
 if __name__ == "__main__":
 
-    print("Тестирование класса StackCollection")
-    print("=" * 50)
-    
     # Создание стеков
     s1 = Stack([1, 2, 3], max_size=5)
     s2 = Stack([4, 5, 6], max_size=10)
